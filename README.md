@@ -1,7 +1,7 @@
 # javase-restful-server
 Example of Java Restful Server using JavaSE and Grizzly 
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat)](https://github.com/nfriaa/javase-restful-server/issues) [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/nfriaa/javase-restful-server) [![demo jar](https://img.shields.io/badge/demo-jar-yellow.svg?style=flat)](https://github.com/nfriaa/javase-restful-server/demo) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/nfriaa/javase-restful-server/blob/master/LICENSE)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat)](https://github.com/nfriaa/javase-restful-server/issues) [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/nfriaa/javase-restful-server) [![demo jar](https://img.shields.io/badge/demo-jar-yellow.svg?style=flat)](https://github.com/nfriaa/javase-restful-server/tree/master/demo) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/nfriaa/javase-restful-server/blob/master/LICENSE)
 
 ## Description
 Sample Java SE Restful Server (packaged in jar and not war) using the Grizzly implementation...
